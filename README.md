@@ -7,12 +7,7 @@ It worked kind of Minecraft in 2.5D. You could set 64x64 blocks consisting of ce
 How to Run :
 ------------
 The Program is only runable in DOS, without any Memory-Manager
-( Himem,Emm,Qemm, ... )
-Win95/98 user shoud press Shift+F5 at startup
-( or press F8 , then choose safe Command Prompt )
-WinNT/2000 - user should create a DOS-Boot-Disk.
-( if the Prorgam is on a NTFS-Partition, there are DOS-Utilities
- available in the Net, which mount the Partition readonly )
+( Himem,Emm,Qemm, ... ). Maybe DosBox can handle, you have to try.
 
 Controls:
 ---------
